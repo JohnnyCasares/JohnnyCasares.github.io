@@ -9,7 +9,7 @@ const RESOURCES = {
 "assets/lib/assets/fonts/Comfortaa-Bold.ttf": "9f81d628ecf6c80f7ebf80e1ed455d92",
 "assets/lib/assets/fonts/Comfortaa-VariableFont_wght.ttf": "2f9d637c5c78f33e7b195032d4aba9ec",
 "assets/lib/assets/resume/JohnnyCasaresPortfolioResume.pdf": "3b558a6c4b5c72812ab907cf691833fd",
-"assets/NOTICES": "ae7b325d4f9d62252e4cef47c9b7bf26",
+"assets/NOTICES": "fdeea4b5bd143251f25d1c7e89528879",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
@@ -19,10 +19,10 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "1eb5d045f8190caf95f4977419f8b16e",
-"/": "1eb5d045f8190caf95f4977419f8b16e",
+"index.html": "8853e58b15084975d1feba055c4762d8",
+"/": "8853e58b15084975d1feba055c4762d8",
 "logo.png": "8bc5baadb5c2da555cf8b0518ec66c65",
-"main.dart.js": "77f9d4a3ae69f541e6d32e9dddbb81f7",
+"main.dart.js": "a6fc5b034b53be67a59e0fbedbbb10af",
 "manifest.json": "e74af8957b5899dc6da961caee768ec9",
 "version.json": "009c9e65172e010890f7f65fde438006"
 };

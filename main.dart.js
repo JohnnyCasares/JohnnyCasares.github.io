@@ -72273,7 +72273,7 @@ q=A.bZ(r,new A.DC(q,r),r,r,r,r,r,r,r,r)
 s=A.b([A.tP(r,A.p8(B.Fm,r,r,r),r,new A.a2Z(),r)],t.p)
 return A.azw(new A.ye(s,new A.VL(r,r,1/0,56),r),r,q,r)}}
 A.a2Z.prototype={
-$0(){var s=A.awu("build/web/assets/lib/assets/resume/JohnnyCasaresPortfolioResume.pdf")
+$0(){var s=A.awu("assets/lib/assets/resume/JohnnyCasaresPortfolioResume.pdf")
 s.download="Johnny Casares Resume"
 s.click()},
 $S:0}
