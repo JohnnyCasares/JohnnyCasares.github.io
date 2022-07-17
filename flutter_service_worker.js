@@ -11,7 +11,6 @@ const RESOURCES = {
 "assets/lib/assets/images/FIU.png": "e6e0c4f73eae20f2f2a71ca49661a9d3",
 "assets/lib/assets/images/GDSC.png": "05e2147820603e32226929a315a25046",
 "assets/lib/assets/images/github.jpg": "bd673b21870d3073f644ca1206aec912",
-"assets/lib/assets/images/JohnnyCasares.jfif": "2a8a82b90095d3bd5445bb6623938b79",
 "assets/lib/assets/images/JohnnyCasares.png": "2a8a82b90095d3bd5445bb6623938b79",
 "assets/lib/assets/images/linkedin.png": "e982281b39ceee5d6b5aa74622fd960b",
 "assets/lib/assets/images/SHPE.jpg": "68397ebfb71dad31d557f87411baf817",
@@ -28,10 +27,10 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "09403f538fbcb0cc6fabd02e0fb96f4a",
-"/": "09403f538fbcb0cc6fabd02e0fb96f4a",
+"index.html": "a379b962824406504cdec384519d7ee6",
+"/": "a379b962824406504cdec384519d7ee6",
 "logo.png": "8bc5baadb5c2da555cf8b0518ec66c65",
-"main.dart.js": "7cc4866e82ad64dc7910e4d8c2d293cd",
+"main.dart.js": "0d2ebecd0e0d98efcdfe8e197da60e61",
 "manifest.json": "e74af8957b5899dc6da961caee768ec9",
 "version.json": "009c9e65172e010890f7f65fde438006"
 };
