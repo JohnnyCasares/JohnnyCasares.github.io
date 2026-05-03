@@ -1,0 +1,18 @@
+{
+  "name": "Johnny Casares",
+  "role": "ERP Developer I",
+  "description": "Software developer with experience in mobile apps, backend systems, and enterprise integrations. I’ve led projects end to end, from secure cloud architecture to complex system integrations. I’m passionate about building practical products that make a real impact and thrive in collaborative, goal-driven teams.",
+  "picturePath": "assets/profile_picture.jpg",
+  "externalLinks": [
+    {
+      "label": "LinkedIn",
+      "urlString": "https://linkedin.com/in/casajohn",
+      "iconImagePath": "assets/linkedin_icon.png"
+    },
+    {
+      "label": "GitHub",
+      "urlString": "https://github.com/johnnycasares",
+      "iconImagePath": "assets/github_icon.png"
+    }
+  ]
+}
